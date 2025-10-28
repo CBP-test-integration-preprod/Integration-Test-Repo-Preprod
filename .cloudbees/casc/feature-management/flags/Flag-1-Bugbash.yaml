@@ -7,6 +7,7 @@ flagType: boolean
 description: ""
 labels:
   - bugbash
+  - "1"
 
 availableValues:
   - "true"
