@@ -1,0 +1,15 @@
+---
+apiVersion: featuremanagement.cloudbees.io/v1alpha1
+kind: flag
+
+flag: Flag-1-Bugbash
+flagType: boolean
+description: ""
+labels:
+  - bugbash
+
+availableValues:
+  - "true"
+  - "false"
+
+isPermanent: false
